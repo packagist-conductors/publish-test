@@ -1,5 +1,7 @@
 {
     "name": "packagist-conductors/publish-test",
+    "description": "Package to test the automatic publish to Packagist.org",
+    "keywords": ["test-suite"],
     "type": "project",
     "require": {}
 }
